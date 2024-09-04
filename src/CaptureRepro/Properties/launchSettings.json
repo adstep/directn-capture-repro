@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CaptureRepro (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "CaptureRepro (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
